@@ -1,7 +1,6 @@
 <?php
 /**
  * Plugin Name: Mercado Pago Split WCFM
- * Description: Integra Mercado Pago Split Payments ao WooCommerce com WCFM Marketplace e wizard de configuração guiada.
  * Version: 1.0.0
  * Author: Split Mercado Pago
  * Text Domain: mercadopago-split-wcfm
