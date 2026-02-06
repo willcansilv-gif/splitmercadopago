@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name: Mercado Pago Split WCFM
+
  * Version: 1.0.0
  * Author: Split Mercado Pago
  * Text Domain: mercadopago-split-wcfm
