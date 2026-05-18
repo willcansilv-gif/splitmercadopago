@@ -1,0 +1,7 @@
+:root{--cgam-bg:#0f172a;--cgam-card:#1e293b;--cgam-txt:#e2e8f0;--cgam-accent:#22d3ee}
+.cgam-dashboard{color:var(--cgam-txt)}
+.cgam-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:16px;margin:20px 0}
+.cgam-cards .card{background:var(--cgam-card);padding:16px;border-radius:12px;box-shadow:0 8px 30px rgba(0,0,0,.25)}
+.cgam-ad{border:1px solid #334155;padding:14px;border-radius:10px;background:#0b1220;color:#fff}
+.cgam-cta{display:inline-block;margin-top:8px;background:var(--cgam-accent);color:#0f172a;padding:8px 12px;border-radius:8px;text-decoration:none}
+.cgam-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}

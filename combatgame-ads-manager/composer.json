@@ -1,0 +1,13 @@
+{
+  "name": "combatgame/ads-manager-pro",
+  "description": "CombatGame Ads Manager PRO",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=8.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "CombatGameAdsManager\\": "app/"
+    }
+  }
+}
